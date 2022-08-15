@@ -303,7 +303,7 @@ _> Rwtone / irfan_
 _> Rimurubotz_
 _> Api-Lexxy_
 _> Yogi-Pw_
-_> My Subscribers_
+_> Afgan  ID_
 _> Lexxy Official_
 `
 }
