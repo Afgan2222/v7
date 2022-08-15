@@ -1,0 +1,71 @@
+{
+
+    "ownerNumber": "6282125968810@s.whatsapp.net", 
+
+    "ownerName": "Afgan", 
+
+    "botName": "kanna BOT",
+
+    "footer": "© kanna BOT By Afgan The Sad Boy  |  2022", 
+
+    "sessionName": "session", 
+
+    "pathimg": "./media/logo.jpg", 
+
+    "pathqris": "./media/qris.jpg",
+
+    "group": "https://chat.whatsapp.com/DVfawsZozt36QdYmfQlsbD",
+
+    "yootube": "https://youtube.com",
+
+     
+
+    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
+
+    "textBarisDonate1": "Dana : 082125968810",
+
+    "textBarisDonate2": "Ovo : --",
+
+    "textBarisDonate3": "Gopay : --",
+
+    "textBarisDonate4": "Pulsa : 082125968810",
+
+  
+
+    "ButtonTextMenu1": "My Web",
+
+    "ButtonTextMenu2": "Group Bot",
+
+    "quickReplyButton3": "Rules",
+
+    "quickReplyButton4": "Owner",
+
+    "quickReplyButton5": "Dashboard",
+
+  
+
+    "ButtonMenuLink1": "https://github.com/Afgan2222",
+
+    "ButtonMenuLink2": "https://chat.whatsapp.com/DVfawsZozt36QdYmfQlsbD",
+
+    "displayTextMenu3": "rules",
+
+    "displayTextMenu4": "owner",
+
+    "displayTextMenu5": "dashboard",
+
+    "limitCount": 100,
+
+    "limitGame": 35,
+
+    "gamewaktu": 90,
+
+    "sticker": {
+
+        "packname": "",
+
+        "author": "by afgan"
+
+    }
+
+}
